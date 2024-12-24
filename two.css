@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(0, 0, 12);
+    color:beige;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+a{
+    color: aqua;
+}
+
+table {
+    border-collapse:collapse;
+  }
+  td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+  }
+  th {
+    border: 1px solid #ddd;
+    padding: 5px;
+    background-color: #440000;
+  }
